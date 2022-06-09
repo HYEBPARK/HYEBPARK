@@ -12,9 +12,10 @@
 
   ### GITHUB
   ---
-  [![Github stats](https://github-readme-stats.vercel.app/api?username=HYEBPARK)](https://github.com/HYEBPARK)   
-  ---
+  [![Github stats](https://github-readme-stats.vercel.app/api?username=HYEBPARK)](https://github.com/HYEBPARK)  
+  
   ## Baekjoon
+  ---
   [![Solved.ac_프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyeqls3742)](https://solved.ac/hyeqls3742)
   
   
