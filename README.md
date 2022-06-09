@@ -10,8 +10,10 @@
   <img src="https://img.shields.io/badge/JUnit5-25A162?style=flat-square&logo=JUnit5&logoColor=black"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
 
-  ### Badge  
+  ### GITHUB
   [![Github stats](https://github-readme-stats.vercel.app/api?username=HYEBPARK)](https://github.com/HYEBPARK)   
+  
+  ## Baekjoon
   [![Solved.ac_프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyeqls3742)](https://solved.ac/hyeqls3742)
   
   
