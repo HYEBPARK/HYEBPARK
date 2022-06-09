@@ -3,6 +3,7 @@
 
   ### Social
   <a href="https://velog.io/@hye_b"><img src="https://img.shields.io/badge/velog-3DDC84?style=flat-square&logo=Velog&logoColor=white"/></a>
+  
   ### Tech
   <img src="https://img.shields.io/badge/Java-26689A?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
@@ -12,6 +13,7 @@
   ### GITHUB
   ---
   [![Github stats](https://github-readme-stats.vercel.app/api?username=HYEBPARK)](https://github.com/HYEBPARK)  
+  
   ### Baekjoon
   ---
   [![Solved.ac_프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyeqls3742)](https://solved.ac/hyeqls3742)
