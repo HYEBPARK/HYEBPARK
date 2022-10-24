@@ -1,6 +1,4 @@
 
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=HyeBinPark&fontSize=70&animation=twinkling)
-
   ### Social
   <a href="https://velog.io/@hye_b"><img src="https://img.shields.io/badge/velog-3DDC84?style=flat-square&logo=Velog&logoColor=white"/></a>
   
@@ -14,11 +12,7 @@
   ---
   [![Github stats](https://github-readme-stats.vercel.app/api?username=HYEBPARK)](https://github.com/HYEBPARK)  
   
-  ### Baekjoon
-  ---
-  [![Solved.ac_프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hyeqls3742)](https://solved.ac/hyeqls3742)
-  
-  
+ 
 <!--
 **HYEBPARK/HYEBPARK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
